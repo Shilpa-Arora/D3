@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	text-align: center;
+	  background-image: url("../images/box1.jpg");
+}
+svg{
+transform: rotate(180deg);/*rotate svg because svg starts from top left 0,0 . to make it easier*/
+  background-image: url("../images/bg2.jpg");
+
+}
+h1{
+	font-family: 'Signika', sans-serif;
+	color: white;
+}
+.topText, #myText{
+	font-family: 'Lobster Two', cursive;
+}
